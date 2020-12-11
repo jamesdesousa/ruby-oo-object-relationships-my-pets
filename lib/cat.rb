@@ -18,6 +18,11 @@ class Cat
     @@all
   end
 
+  
+
+
+
+
 
   #binding.pry
   0
